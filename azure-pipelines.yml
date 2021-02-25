@@ -11,7 +11,7 @@ variables:
   azureSubscription: '70c1914a-32f7-4b19-8d45-049ec565aafc'
 
   # Web app name
-  webAppName: 'jebinphpwebapp'
+  webAppName: 'my-appj'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
